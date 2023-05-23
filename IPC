@@ -1,0 +1,10 @@
+Các giao thức liên tiến trình gồm có
+- PIPE
+- Masege Queue
+- Signal
+- Shared mẻmory
+- Socket
+
+Ngoài ra còn các phương thức giao tiếp user space và kernal space
+- Vitual file: /proc, /obj  , /
+- 
